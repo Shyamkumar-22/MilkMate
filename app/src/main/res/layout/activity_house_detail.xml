@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/tvHouseTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="House"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="12dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Select Milk Quantity"
+        android:textSize="16sp"
+        android:layout_marginBottom="12dp"/>
+
+    <GridLayout
+        android:id="@+id/gridMilk"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:columnCount="3">
+
+        <Button android:text="0.25 L" style="@style/MilkBtn"/>
+        <Button android:text="0.5 L"  style="@style/MilkBtn"/>
+        <Button android:text="1 L"    style="@style/MilkBtn"/>
+        <Button android:text="1.5 L"  style="@style/MilkBtn"/>
+        <Button android:text="2 L"    style="@style/MilkBtn"/>
+        <Button android:text="3 L"    style="@style/MilkBtn"/>
+        <Button android:text="4 L"    style="@style/MilkBtn"/>
+        <Button android:text="5 L"    style="@style/MilkBtn"/>
+
+    </GridLayout>
+
+    <Button
+        android:id="@+id/btnSave"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Save"
+        android:layout_marginTop="24dp"/>
+
+</LinearLayout>

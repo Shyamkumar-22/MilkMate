@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "800300828398",
+    "project_id": "milkmate-c177e",
+    "storage_bucket": "milkmate-c177e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800300828398:android:53a2b6e0a644716425d5ff",
+        "android_client_info": {
+          "package_name": "com.example.milkmate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt4QG6ggHD92raARRe6OyKtTo3eHTBd2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

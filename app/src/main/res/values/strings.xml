@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MilkMate</string>
+
+    <!-- Login -->
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="all_fields_required">All fields are required</string>
+
+    <!-- House & Milk -->
+    <string name="houses">Houses</string>
+    <string name="milk_quantity">Milk Quantity (Liters)</string>
+    <string name="save">Save</string>
+
+    <style name="MilkBtn">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_columnWeight">1</item>
+        <item name="android:layout_margin">6dp</item>
+    </style>
+
+
+
+</resources>

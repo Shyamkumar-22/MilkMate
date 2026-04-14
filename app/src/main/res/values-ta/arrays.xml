@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="user_roles">
+        <item>பயனர்</item>
+        <item>பால்காரர்</item>
+    </string-array>
+
+</resources>

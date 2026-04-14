@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">மில்க்மேட்</string>
+
+    <string name="login">உள்நுழை</string>
+    <string name="register">பதிவு</string>
+    <string name="email">மின்னஞ்சல்</string>
+    <string name="password">கடவுச்சொல்</string>
+    <string name="all_fields_required">அனைத்து விவரங்களும் தேவை</string>
+    <string name="houses">வீடுகள்</string>
+    <string name="milk_quantity">பால் அளவு (லிட்டர்)</string>
+    <string name="save">சேமிக்க</string>
+
+</resources>
